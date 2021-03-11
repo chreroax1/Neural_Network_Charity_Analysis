@@ -1,6 +1,6 @@
 # Neural_Network_Charity_Analysis
 
-![erfquake](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fpredict-any-cryptocurrency-applying-nlp-with-global-news-e938af6f7922&psig=AOvVaw1dOw-sM9_N1SK7nEAWH0dA&ust=1615582824739000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPih-pmRqe8CFQAAAAAdAAAAABAJ)
+![erfquake](https://miro.medium.com/max/1318/1*7tMIfJjBsJYQFJf4otPKwQ.png)
 *****
 *****
 
