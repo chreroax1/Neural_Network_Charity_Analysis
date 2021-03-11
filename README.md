@@ -9,15 +9,15 @@
 ****
 ****
 
-Using neural networks, use the features in the dataset to help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
+* Using neural networks, use the features in the dataset to help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
-Using Pandas and the Scikit-Learn’s StandardScaler(), preprocess the dataset in order to train, and evaluate the neural network. We will bin diverse features, drop unnecessary columns, encode categorical variables, and finally scale the data.
+* Using Pandas and the Scikit-Learn’s StandardScaler(), preprocess the dataset in order to train, and evaluate the neural network. We will bin diverse features, drop unnecessary columns, encode categorical variables, and finally scale the data.
 
-Using knowledge of TensorFlow, deep learning model, to create a binary classification model that can predict if an organization will be successful based on the features in the dataset. Then compile, train, and evaluate our classification model to calculate the model’s loss and accuracy.
+* Using knowledge of TensorFlow, deep learning model, to create a binary classification model that can predict if an organization will be successful based on the features in the dataset. Then compile, train, and evaluate our classification model to calculate the model’s loss and accuracy.
 
-Using knowledge of TensorFlow, optimize model to try and achieve a target predictive accuracy higher than 75%.
+* Using knowledge of TensorFlow, optimize model to try and achieve a target predictive accuracy higher than 75%.
 
-## Results
+## Q & A
 
 * Data Preprocessing
   * What variable(s) are considered the target(s) for your model?
