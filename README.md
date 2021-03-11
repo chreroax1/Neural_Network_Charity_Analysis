@@ -29,7 +29,7 @@ Using knowledge of TensorFlow, optimize our model to try and achieve a target pr
 * Compiling, Training, and Evaluating the Model
   * How many neurons, layers, and activation functions did you select for your neural network model, and why?
     - shape of one of the better tries at optimization, why? general trial and error, because we are not taught any actual strategies. 
-     ![shape](chekcpoint/Untitled.png)
+     ![shape](./checkpoint/Untitled.png)
   * Were you able to achieve the target model performance?
     -  no
   * What steps did you take to try and increase model performance?
